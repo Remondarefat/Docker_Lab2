@@ -2,5 +2,5 @@
 
 echo "remonde refat";
 
-echo "docker lap2";
+echo "docker lap2!";
 ?>
